@@ -1,0 +1,22 @@
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Services.deps.json
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Services.dll
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Services.pdb
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Models.dll
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Models.pdb
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.csprojAssemblyReference.cache
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.AssemblyInfoInputs.cache
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.AssemblyInfo.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.csproj.CopyComplete
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.dll
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Services.deps.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Services.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Services.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Models.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\bin\Debug\netcoreapp3.1\WorkOutTracker.Models.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.csproj.CopyComplete
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\WorkOutTracker.Services\obj\Debug\netcoreapp3.1\WorkOutTracker.Services.pdb

@@ -1,0 +1,67 @@
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorAssemblyInfo.cache
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorAssemblyInfo.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.AssemblyInfoInputs.cache
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.AssemblyInfo.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.deps.json
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.runtimeconfig.json
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.runtimeconfig.dev.json
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.dll
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.pdb
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.Views.dll
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.Views.pdb
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.TagHelpers.input.cache
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.TagHelpers.output.cache
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorCoreGenerate.cache
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorTargetAssemblyInfo.cache
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorTargetAssemblyInfo.cs
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.Views.pdb
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.dll
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.pdb
+C:\Users\IIHT\source\repos\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.csproj.CopyComplete
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.deps.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.runtimeconfig.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.runtimeconfig.dev.json
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.Views.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\bin\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.Views.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.csprojAssemblyReference.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorAssemblyInfo.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorAssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.AssemblyInfoInputs.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.AssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.TagHelpers.input.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.TagHelpers.output.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorCoreGenerate.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorTargetAssemblyInfo.cache
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.RazorTargetAssemblyInfo.cs
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.Views.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.dll
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.pdb
+C:\Users\IIHT\Desktop\.Net IIHT - Copy\L2-WorkOutTracker\.Net-core\L1-.Net-WorkOutTracker\L1-.Net-WorkOutTracker\obj\Debug\netcoreapp2.1\L1-.Net-WorkOutTracker.csproj.CopyComplete
